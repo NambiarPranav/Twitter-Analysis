@@ -1,0 +1,10 @@
+<div class="panel panel-default">
+	<div class="panel-body">
+		<h1>Top 10 Hastags:</h1>
+		<ul class="menu">
+			<% (9..19).each do |i| %>
+			<li><%= @content[i] %></li>
+			<% end %>
+		</ul>
+	</div>
+</div>
