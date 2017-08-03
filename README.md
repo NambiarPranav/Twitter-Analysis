@@ -23,3 +23,5 @@ The data_processor file then looks at various data and features recieved and fig
 How is it displayed?
 -------------------------------------------------------------------------------------------------------------------------------
 The web application is made on ruby, the data gathered by the data_processor is saved in a text file and then ruby accesses it to display them on the application
+
+The data extracted from twitter is in mycollection.txt
