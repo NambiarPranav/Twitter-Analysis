@@ -1,5 +1,12 @@
 # README
 
+What all do you need to understand this program?
+-------------------------------------------------------------------------------------------------------------------------------
+1.Basic understanding of Python
+2.Mongodb along with pymongo(the python wrapper) installed in your laptop/pc
+3.tweepy,a python wrapper provided by twitter to get it's data
+4.Basic ruby understanding(for web application)
+
 What it does?
 -------------------------------------------------------------------------------------------------------------------------------
 
